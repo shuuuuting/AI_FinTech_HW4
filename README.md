@@ -1,1 +1,2 @@
-# AI_FinTech_HW4
+## AI_FinTech_HW4
+### concept: KNN
